@@ -1,0 +1,246 @@
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+section
+{
+    padding-top:70px;
+    padding-bottom: 10px;
+    z-index: 2;
+    position: relative;
+}
+.home-sec
+{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ img
+{
+    width: 90%;
+  
+    height: 90vh;
+}
+.tr-1
+{
+    font-weight: bold;
+    font-size: 3rem;
+}
+.para-1
+{
+    margin-left: 2vh;
+}
+.navbar-brand
+{
+    font-weight: bold;
+   
+    
+}
+ .navbar
+{
+   
+    background-color: lightcoral;
+    
+   
+}
+.nav-item
+{
+    color: black;
+    font-weight: bold;
+    font-size: 1.20rem;
+   
+}
+.section-intro p
+{
+    height: 3px;
+    width: 50%;
+   
+    margin: auto;
+
+
+}
+.sect-img
+{
+    width: 15%;
+    height: 5vh;
+    z-index: 90000;
+    margin-left: 10vh;
+    
+}
+.par-1
+{
+    
+    height: 60vh;
+    width: 90%;
+    background-color: lightcoral;
+    margin: auto;
+    margin-top: 6vh;
+   
+}
+.trq-1
+{
+    height: 8vh;
+    color: aliceblue;
+    background-color: black;
+    font-size: 2rem;
+
+    
+}
+.trz-2
+{
+  
+    height: 30vh;
+    width: 80%;
+   margin-left: 25vh;
+   margin-top: 4vh;
+}
+.btn1
+{
+    width: 40%;
+    height: 8vh;
+    border-radius: 20px;
+    font-size: 1.50rem;
+    font-weight: 800;
+    box-shadow: 1px 1px 1px 1px gray;
+    border: 1px solid white;
+}
+.boxe-md-1
+{
+    height: 40vh;
+    border-radius: 20px;
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: auto;
+    box-shadow: 1px 1px 1px 1px black;
+   
+   
+   
+
+}
+.boxe-md-1 img
+{
+    height: 30vh;
+    width: 20%;
+   
+    margin-right: 50vh;
+}
+.boxe-md-1 p
+{
+   
+    width: 80%;
+  
+}
+.vr-1
+{
+    display: flex;
+   justify-content: center;
+   margin-top: -30vh;
+   margin-left: 10vh;
+ 
+    
+   
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+ .image
+ {
+    background-image: url(t78.jpg);
+    height: 50vh;
+    margin: auto;
+    padding: auto;
+    background-size: cover;
+    background-size: 100% 100%;
+    z-index: 900000;
+   
+ }
+ .boc
+ {
+    height: 45vh;
+    border: 3px dotted red;
+    margin-bottom: 2vh;
+ }
+ .tani
+ {
+    background-image: url(tr5.png);
+    height: 40vh;
+    background-size: cover;
+    background-size: 100% 100%;
+    margin-top: 2vh;
+ }
+.imge 
+{
+    background-image: url(tgb.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-size: 100% 100%;
+} 
+.im 
+{
+    background-image: url(ftr.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.imq
+{
+    height: 40vh;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-image: url(kind.jpg);
+    margin-top: 2vh;
+}
+.btn3
+{
+    line-height: 6vh;
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgb(133, 12, 12);
+    color: aliceblue;
+    font-weight: 600;
+    outline: 2px solid white;
+
+}
+.tgy
+{
+    background-image: url(btg.jpg);
+    height: 60vh;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px gray;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.blogs h1
+{
+   
+    line-height: 12vh;
+    font-weight: 800;
+   
+}
+.cont 
+{
+    outline: 2px solid black;
+   background-color: lightcoral;
+   margin-top: 5vh;
+}
+.cont h1
+{
+    font-weight: bold;
+}
+.utr
+{
+    background-image: url(tgu.png);
+    height: 60vh;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.cont .bx 
+{
+    font-size: 3rem;
+}
+
